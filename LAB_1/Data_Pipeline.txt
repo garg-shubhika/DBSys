@@ -1,0 +1,6 @@
+The full dataset can be downloaded for offline analysis at http://dblp.uni-trier.de/xml/
+A quick documentation of this dataset is at http://dblp.uni-trier.de/xml/docu/dblpxml.pdf
+
+createdb dblp
+psql dblp
+
