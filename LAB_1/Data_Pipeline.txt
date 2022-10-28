@@ -3,4 +3,3 @@ A quick documentation of this dataset is at http://dblp.uni-trier.de/xml/docu/db
 
 createdb dblp
 psql dblp
-
